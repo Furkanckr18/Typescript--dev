@@ -1,3 +1,6 @@
+### Repo Hakkında Bilgi
+Bu depo, BGP 201 dersi kapsamında verilen TypeScript Ödev 3'ün tüm çözümlerini içermektedir. Ödevin teslim koşullarına uygun olarak, repo herkese açıktır. Çözümler `Soru1.ts`'den `Soru20.ts`'ye kadar eksiksiz olarak sunulmuştur. Ödev, kodlama (Aşama 1) ve ileri düzey tip sistemleri (Aşama 2) üzerine odaklanmıştır.
+
 ### Aşama 1 (Soru 1 - 10)
 
 Soru 1: Jenerik Dizi Birleştirme mergeArrays fonksiyonunu iki farklı tipte diziyi alıp tek bir dizide birleştirecek şekilde implemente edin.
